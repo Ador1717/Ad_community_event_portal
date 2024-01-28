@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c96c2ab2-13ef-4857-822a-7684bf01836b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/dbconfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/eventController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/reservationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/usercontroller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/databse/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/model/event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/model/reservation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/model/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/fetchEvents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/profil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/repositories/eventRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/repositories/reservationRepositories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/repositories/userrepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routers/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/eventService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/reservationService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/userServices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin-home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/header/admin-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/header/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/header/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/login/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/login/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/manage-event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/manage-reservations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bJd2nTojU81AKRCOnRL7B1hY4Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/adord/Desktop/xx",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96c2ab2-13ef-4857-822a-7684bf01836b" name="Changes" comment="" />
+      <created>1705936910790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705936910790</updated>
+      <workItem from="1705936911855" duration="3087000" />
+      <workItem from="1706383047255" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
